@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(92, 92, 92);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align: center;
+}
